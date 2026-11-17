@@ -1,6 +1,6 @@
 name = "ai-bratishka-bot"
 main = "worker.js"
-compatibility_date = "2026-11-17"
+compatibility_date = "2026-11-15"
 
 [ai]
 binding = "AI"
